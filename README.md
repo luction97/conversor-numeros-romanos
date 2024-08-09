@@ -69,7 +69,7 @@ Se deben tener instalados los siguientes componentes en el sistema:
 Primero, clona el repositorio del proyecto desde GitHub:
 
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/luction97/conversor-numeros-romanos.git
 ```
 
 ### 2. Abrir el Proyecto en un IDE
